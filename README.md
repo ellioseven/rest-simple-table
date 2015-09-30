@@ -16,4 +16,13 @@ return new RST({
     ['Duarte Garin', 'Technical Director']
   ]
 }).draw();
+
+/**
+ * ================== ==================
+ * Name               Role              
+ * ------------------ ------------------
+ * Elliot Mitchum     Website Developer 
+ * Duarte Garin       Technical Director
+ * ================== ==================
+ */
 ```
