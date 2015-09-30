@@ -1,7 +1,7 @@
 {
   "name": "rest-simple-table",
   "version": "1.0.0",
-  "description": "Restructured Text Simple Tables",
+  "description": "reStructuredText Simple Tables",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
