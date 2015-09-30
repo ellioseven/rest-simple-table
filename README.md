@@ -7,7 +7,7 @@ npm install rest-simple-table
 ```
 
 ```javascript
-var RST = require("rest-simple-table");
+var RST = require('rest-simple-table');
 
 return new RST({
   head: ['Name', 'Role'],
