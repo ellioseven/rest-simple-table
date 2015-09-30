@@ -1,0 +1,23 @@
+{
+  "name": "rest-simple-table",
+  "version": "1.0.0",
+  "description": "Restructured Text Simple Tables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellioseven/rest-simple-table.git"
+  },
+  "keywords": [
+    "Restructured",
+    "Text"
+  ],
+  "author": "Elliot Mitchum <elliot.mitchum@ellioseven.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ellioseven/rest-simple-table/issues"
+  },
+  "homepage": "https://github.com/ellioseven/rest-simple-table#readme"
+}
