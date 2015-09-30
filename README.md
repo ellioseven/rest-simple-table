@@ -1,6 +1,6 @@
-# Rest Simple Table
+# reStructuredText Simple Table
 
-Generate Restructured Text simple tables.
+Generate reStructuredText simple tables.
 
 ```javascript
 npm install rest-simple-table
