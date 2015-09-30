@@ -2,7 +2,7 @@
 
 Generate reStructuredText simple tables.
 
-```javascript
+```bash
 npm install rest-simple-table
 ```
 
