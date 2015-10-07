@@ -20,7 +20,7 @@ var LINE = "\n";
 var defaults = {
   symbols: {
     headTop: EQUAL,
-    headBottom: DASH,
+    headBottom: EQUAL,
     bodyBottom: EQUAL
   }
 }
